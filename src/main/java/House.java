@@ -16,7 +16,7 @@ public class House {
 
         rAddress = new Address("DeMarchand", 54, 54620, "noisyCity");
 
-        System.out.println(rAddress);
+        System.out.println("my address is" + rAddress);
 
 
     }
